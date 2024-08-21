@@ -1,8 +1,8 @@
-# Chapter 01. Mathematics in Mesopotamia
+# Chapter 01. Mathematics in Mesopotamia (Page 3 - 14)
 
 > Logic can be patient for it is eternal. - Oliver Heaviside
 
-### 1. Where did Mathematics Begin?
+### 1. Where did Mathematics Begin? (Page 3)
 | **Mathematics in Early Civilizations** | **早期文明中的数学** |
 |----------------------------------------|------------------------|
 | Mathematics as an organized, independent, and reasoned discipline did not exist before the classical Greeks of the period from 600 to 300 B.C. entered upon the scene. | 在公元前600至300年的古希腊人出现之前，数学并不算是一个有组织的、独立的、有理性的学科。 |
@@ -38,3 +38,15 @@ Here is the continuation based on the provided paragraph:
 **Summary:**  
 **This paragraph highlights the slow progression of mathematics in early civilizations, emphasizing the gradual development until the era of the Babylonians and Egyptians and the widespread lack of mathematical knowledge in many other societies.**  
 **本段强调了早期文明中数学的缓慢发展，直到巴比伦人和埃及人时代才有所进展，并指出许多其他社会缺乏数学知识的普遍现象。**
+
+### 2. Political History in Mesopotamia (Page 4)
+
+### 3. The Number Symbols (Page 5 - 6)
+### 4. Arithmetic Operations (Page 7 - 8)
+### 5. Babylonian Algebra (Page 8 - 10)
+### 6. Babylonian Geometry (Page 10 - 11)
+### 7. The Uses of Mathematics in Babylonia (Page 11 - 13)
+### 8. Evaluation of Babylonian Mathematics (Page 13 - 14)
+
+### 9. History
+![https://cmcbiblereading.com](https://cmcbiblereading.com/wp-content/uploads/2016/10/001.gif)
