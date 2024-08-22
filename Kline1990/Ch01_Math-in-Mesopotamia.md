@@ -40,6 +40,44 @@ Here is the continuation based on the provided paragraph:
 **本段强调了早期文明中数学的缓慢发展，直到巴比伦人和埃及人时代才有所进展，并指出许多其他社会缺乏数学知识的普遍现象。**
 
 ### 2. Political History in Mesopotamia (Page 4)
+Here is the translation based on the provided paragraph:
+
+| **The Babylonians and the Advancement of Mathematics** | **巴比伦人与数学的进步** |
+|------------------------------------------------------|--------------------------|
+| The Babylonians were the first of these two early civilizations to contribute to the main course of mathematics. | 巴比伦人是这两个早期文明中第一个为数学的主要进程做出贡献的。 |
+| Since our knowledge of the ancient civilizations of the Near East and of Babylonia in particular is largely the product of archaeological research of the last hundred years, this knowledge is incomplete and subject to correction as new discoveries are made. | 由于我们对近东古代文明，尤其是巴比伦的了解，主要来自于过去一百年的考古研究，因此这些知识并不完整，并会随着新发现的出现而修正。|
+| The term "Babylonian" covers a series of peoples, who concurrently or successively occupied the area around and between the Tigris and Euphrates rivers, a region known as Mesopotamia and now part of modern Iraq. | "巴比伦人"一词涵盖了一系列民族，他们同时或相继占据了底格里斯河和幼发拉底河之间及其周围的地区，这个地区被称为美索不达米亚，现在是现代伊拉克的一部分。 |
+| These peoples lived in independent cities such as Babylon, Ur, Nippur, Susa, Aššur, Uruk, Lagash, Kish, and others. | 这些民族生活在独立的城市中，如巴比伦、乌尔、尼普尔、苏萨、亚述、乌鲁克、拉加什、基什等。 |
+| About 4000 B.C., the Sumerians, racially distinct from the Semitic and Indo-Germanic peoples, settled down in part of Mesopotamia. | 大约公元前4000年，苏美尔人，这些种族上与闪族和印欧-日耳曼民族不同的人，在美索不达米亚的一部分定居下来。 |
+| Their capital city was Ur, and the land area they controlled was called Sumer. | 他们的首都是乌尔，他们控制的地区被称为苏美尔。 |
+| Though their culture reached its height about 2250 B.C., even before this, about 2500 B.C., the Sumerians came under the political control of the Akkadians, a Semitic people whose major city was Akkad and who were led at that time by the ruler Sargon. | 虽然他们的文化在公元前2250年左右达到了顶峰，但在此之前的公元前2500年左右，苏美尔人被阿卡德人的政治控制，阿卡德人是一个闪族民族，其主要城市是阿卡德，当时由统治者萨尔贡领导。 |
+| Sumerian civilization was submerged in the Akkadian. | 苏美尔文明被阿卡德文明所吞没。 |
+| A period of high culture occurred during the reign of King Hammurabi (about 1700 B.C.), who is known as the formulator of a famous code of law. | 在国王汉谟拉比（约公元前1700年）统治期间，出现了一个高文化的时期，他因制定了著名的法典而闻名。 |
+
+**Summary:**  
+**This paragraph discusses the Babylonians' contribution to mathematics, the archaeological understanding of ancient Mesopotamian civilizations, and the historical context of the Sumerians and Akkadians.**  
+**本段讨论了巴比伦人在数学上的贡献，对古代美索不达米亚文明的考古理解，以及苏美尔人和阿卡德人的历史背景。**
+
+Here is the translation based on the provided paragraph:
+
+| **The Influence of Political Changes on Mesopotamian Mathematics** | **政治变革对美索不达米亚数学的影响** |
+|-------------------------------------------------------------------|------------------------------------------------|
+| Around 1000 B.C., migrations and the introduction of iron resulted in further changes. | 大约在公元前1000年，迁徙和铁器的引入带来了进一步的变化。 |
+| Later, in the eighth century B.C., the area was ruled by the Assyrians, who settled primarily in the upper Tigris region. | 后来，在公元前八世纪，该地区由亚述人统治，他们主要定居在底格里斯河上游地区。 |
+| To our knowledge, they did not add anything new to the culture. | 据我们所知，他们并未对文化添加任何新内容。 |
+| A century later, the Assyrian empire was shared by the Chaldeans and the Medes, the latter being close racially to the Persians further east. | 一世纪后，亚述帝国被迦勒底人和米底人瓜分，后者在种族上与更东边的波斯人相近。 |
+| This period in Mesopotamian history (7th cent. B.C.) is often referred to as Chaldean. | 美索不达米亚历史上的这一时期（公元前7世纪）通常被称为迦勒底时期。 |
+| The Near East was conquered by the Persians under Cyrus about 540 B.C. | 大约在公元前540年，波斯人在居鲁士的领导下征服了近东地区。 |
+| Persian mathematicians such as Nabu-rimanni (c. 490 B.C.) and Kidinu (c. 480 B.C.) became known to the Greeks. | 波斯数学家如纳布-里曼尼（约公元前490年）和基丁奴（约公元前480年）为希腊人所知。 |
+| In 330 B.C., Alexander the Great, the Greek military leader, conquered Mesopotamia. | 公元前330年，希腊军事领袖亚历山大大帝征服了美索不达米亚。 |
+| The period from 300 B.C. to the birth of Christ is called Seleucid after the Greek general who first took control of the region following the death of Alexander in 323 B.C. | 从公元前300年到基督诞生的时期被称为塞琉古时期，得名于亚历山大逝世后首先控制该地区的希腊将军。 |
+| However, the flowering of Greek mathematics had already taken place, and from the time of Alexander until the seventh century A.D., when the Arabs arrived on the scene, the Greek influence predominated in the Near East. | 然而，希腊数学的繁荣已经开始，并且从亚历山大时期一直到公元7世纪阿拉伯人到来之前，希腊的影响在近东地区占据主导地位。 |
+| Most of what the Babylonians contributed to mathematics predates the Seleucid period. | 巴比伦人在数学上的大部分贡献都早于塞琉古时期。 |
+| Despite the numerous changes in the rulers of Mesopotamia, there was, in mathematics, a continuity of knowledge, tradition, and practice from ancient times at least to the time of Alexander. | 尽管美索不达米亚的统治者经历了多次更迭，但在数学领域，从古代到至少亚历山大时期，知识、传统和实践都保持了连续性。 |
+
+**Summary:**  
+**This paragraph outlines the impact of political changes on Mesopotamian mathematics, highlighting the various ruling powers and the continuity of mathematical knowledge from ancient times through the Seleucid period.**  
+**本段概述了政治变革对美索不达米亚数学的影响，重点介绍了各个统治势力以及从古代到塞琉古时期数学知识的连续性。**
 
 ### 3. The Number Symbols (Page 5 - 6)
 ### 4. Arithmetic Operations (Page 7 - 8)
